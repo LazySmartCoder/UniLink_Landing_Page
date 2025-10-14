@@ -15,7 +15,7 @@ export default function Download() {
           </p>
 
           {/* Download button */}
-          <a href="/UniLink.apk" download>
+          <a href="https://www.dropbox.com/scl/fi/790xkztc0xhalnfbxq20n/UniLink.apk?rlkey=7nju6s0i0r4y2il34fi1ytqeh&dl=1" download>
             <ShinyButton>
               Download Securely
             </ShinyButton>
